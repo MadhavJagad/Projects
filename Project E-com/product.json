@@ -1,0 +1,22 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Product 1",
+            "price":100,
+            "images": ["https://imgs.search.brave.com/2TQWAv9Q__g7hANf3mMdVqjZef9hDuEBnjP4oa7e4hA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9leHhw/b3plZC1pbWFnZS5k/ZS9leHhwb3plZC1y/ZXMuY2xvdWRpbmFy/eS5jb20vaW1hZ2Uv/dXBsb2FkL3RfY2F0/YWxvZ19pbWFnZS9s/X2JyYW5kczpwaWN0/dXJlLTEuanBnLHdf/NDUsZ19ub3J0aF93/ZXN0LHhfNSx5XzUs/ZV9ncmF5c2NhbGUv/djIwMjQxMTE0MTAw/NzI1L2NhdGFsb2cv/cGljdHVyZS1tLXBp/Y3R1cmUtb2JqZWN0/LXBhbnRzLXZvcmdh/ZW5nZXJtb2RlbGwt/MjNiLXBpYy1tcHQx/NDItcmF2ZW4tZ3Jl/eS0x.jpeg"],
+            "description":"clothes for children",
+            "discountPercentage":15,
+            "reviews":[
+                {
+                    "rating":5,
+                    "comment":"This product is amazing"
+                },
+                {
+                    "rating":4,
+                    "comment":"I love it!"
+                }
+            ]
+        }
+    ]
+}
